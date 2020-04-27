@@ -30,8 +30,8 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Demo](#demo)
-* [Installation](#installation)
+  * [Demo](#demo)
+  * [Installation](#installation)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
