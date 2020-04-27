@@ -59,6 +59,7 @@ Follow flutter installation instructions [here](https://flutter.dev/docs/get-sta
 Clone the repo and from this `info_covid-19` directory, run
 
 ```
+flutter pub get
 flutter run
 ```
 
@@ -103,6 +104,10 @@ Benidiktus BT - me@benibete.com
 * [EstamosOn - Covid19](https://github.com/vostpt/covid19-mobile)
 
 
+
+<!-- BUYMEACOFFEE -->
+## Buy Me a Coffee
+<a href="https://www.buymeacoffee.com/benibete" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 
