@@ -30,12 +30,14 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Demo](#demo)
 * [Installation](#installation)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
+* [Buy Me a Coffee](#buy-me-a-coffee)
 
 
 
@@ -49,6 +51,12 @@ This application is built to give valid information about Covid-19 in Indonesia.
 1. https://www.covid19.go.id/ 
 2. https://kawalcorona.com/
 3. Youtube Channel of "Presiden Joko Widodo"
+
+
+
+### Demo
+
+[<img src="images/google-play-store.svg" height="45" />](https://github.com/benibete/info_covid-19/blob/master/release/android/Info_Covid-19_v1.0.0+1.apk?raw=true)
 
 
 
@@ -101,12 +109,14 @@ Benidiktus BT - me@benibete.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+
 * [EstamosOn - Covid19](https://github.com/vostpt/covid19-mobile)
 
 
 
 <!-- BUYMEACOFFEE -->
 ## Buy Me a Coffee
+
 <a href="https://www.buymeacoffee.com/benibete" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
